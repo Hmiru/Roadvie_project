@@ -1,3 +1,7 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+*.jpg
+*.png
+C:\Users\mirun\PycharmProjects\Roadview_project\inpainting
+*.xml
