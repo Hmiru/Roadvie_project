@@ -1,0 +1,9 @@
+path:
+  image_dataset_path : "../raw_data/test/test_4"
+  label_folder_path: "..raw_data/test/label"
+
+  mask_folder_path : "../raw_data/test/mask"
+  icon_detected_image_folder_path : "../raw_data/test/icon_detected_image" #원본 사진 중 Icon이 발견된 사진만
+
+  lama_folder_path : "..//lama/data/input"
+
